@@ -1,0 +1,143 @@
+
+.button-x{
+	background: none;
+    padding-top: 10px;
+    padding-bottom: 20px;
+	text-align:center;
+}
+.b1-x{
+	
+	padding:10px 10px;
+	background:white;
+	color:#31353E;
+	font-size:18px;
+	transition:0.4s ease-in-out;
+	border: 3px solid white;
+    border-radius: 100px;
+	
+	
+}
+.b1-x:hover{
+	cursor:ponter;
+	background:#DD4C2D;
+}
+
+
+
+.button{
+	background: none;
+    padding-top: 100px;
+    padding-bottom: 187px;
+	text-align:center;
+}
+.b1{
+	
+	padding:10px 10px;
+	background:white;
+	color:#31353E;
+	font-size:18px;
+	transition:0.4s ease-in-out;
+	border: 3px solid white;
+    border-radius: 100px;
+	
+	
+}
+.b1:hover{
+	cursor:ponter;
+	background:#DD4C2D;
+}
+
+.easy{
+	background:url(../images/pic1.jpg) no-repeat center;
+	background-size: cover;
+	width: 100%;
+    float: left;
+}
+
+.loan{
+	background:rgba(0,0,0,.3);
+	padding:50px 0px;
+}
+.loan h1 {
+    text-align: center;
+    padding-top: 0px;
+    font-size: 50px;
+}
+.g{
+	text-align:center;
+}
+.form-group{
+    margin: 20px 10px;
+}
+.form-control1{
+    width: 90%;
+    height: 30px;
+    margin: 5px auto;
+    padding: 10px 10px;
+    border: 1px solid #140804;
+    font-size: 16.5px;
+    border-radius: 100px;
+    transition: 0.4s ease-in-out;
+    
+}
+.form-control1:hover{
+    transform: scale(1.1,1.1);
+}
+.form-control2{
+      width: 90%;
+    height: 30px;
+    margin: 5px auto;
+    margin-left: 36px;
+    padding: 10px 0px;
+    border: 1px solid #140804;
+    font-size: 15px;
+    border-radius: 100px;
+    transition: 0.4s ease-in-out;
+    
+}
+.form-control2:hover{
+    transform: scale(1.1,1.1);
+}
+
+.form-control3{
+ width: 90%;
+    height: 30px;
+    margin: 5px auto;
+    /* margin-left: 1px; */
+    margin-right: 10px;
+    padding: 10px 0px;
+    border: 1px solid #140804;
+    font-size: 18px;
+    border-radius: 100px;
+    transition: 0.4s ease-in-out;
+}
+    
+
+.form-control3:hover{
+    transform: scale(1.1,1.1);
+}
+
+.btn-primary{
+    padding: 5px 10px;
+    border: 3px solid none;
+    border-radius: 100px; 
+    font-size: 18px;
+    transition: 0.4s ease-in-out;
+    
+}
+.btn-primary:hover{
+    cursor: pointer;
+    background-color:transparent; 
+    transform: scale(1.1,1.1);
+    transform: rotate(360deg);
+    transition: 0.4s ease-in-out;
+}
+.button1{
+	padding-bottom:50px;
+	padding-bottom:15px;
+	
+}
+.button2{
+	padding-bottom:118px;
+	
+}

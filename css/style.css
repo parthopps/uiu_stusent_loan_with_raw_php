@@ -1,0 +1,136 @@
+/* Google fonts open sens*/
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800&subset=cyrillic,greek,vietnamese');
+
+/* Global css */
+
+*{
+    margin: 0;  
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+    color: black;
+    ;
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+    
+    
+}
+.login-form{
+    width: 350px;
+    margin: 0 auto;
+    background-color: #182955;
+    margin-top: 100px;
+    padding: 20px;
+}
+h3{
+	padding-top:10px;
+	text-align:center;
+	color:white;
+}
+h5,label{
+	color:white;
+}
+
+.user-avater{
+    width: 100px;
+    height: 100px;
+    background-color: gainsboro;
+    display: block;
+    margin: -65px auto 0px;
+    border: 3px solid white;
+    border-radius: 100px;
+    transition: 0.4s ease-in-out;
+}
+.user-avater:hover{
+    
+    cursor: pointer;
+    background-color:#2f5888; 
+    transform: scale(1.1,1.1);
+    transform: rotate(360deg);
+    transition: 0.4s ease-in-out;
+}
+.fa-user-circle{
+    text-align: center;
+    font-size: 50px;
+    line-height: 100px;
+    display: block;
+    margin: 0px auto;
+   
+}
+
+.form-group{
+    margin: 20px 10px;
+}
+.form-control{
+    width: 90%;
+    height: 30px;
+    margin: 5px auto;
+    padding: 0px 10px;
+    border: 1px solid #140804;
+    font-size: 15px;
+    border-radius: 100px;
+    transition: 0.4s ease-in-out;
+    
+}
+.form-control:hover{
+    transform: scale(1.1,1.1);
+}
+
+
+.btn-primary{
+    padding: 5px 10px;
+    border: 3px solid #140804;
+    border-radius: 100px; 
+    font-size: 18px;
+    transition: 0.4s ease-in-out;
+    
+}
+.btn-primary:hover{
+    cursor: pointer;
+    background-color:#2f5888; 
+    transform: scale(1.1,1.1);
+    transform: rotate(360deg);
+    transition: 0.4s ease-in-out;
+
+}
+.btn-primary2{
+    padding: 5px 10px;
+    border: 3px solid #140804;
+    border-radius: 100px; 
+    font-size: 18px;
+    transition: 0.4s ease-in-out;
+    display: block;
+    margin: 0px auto; 
+    
+}
+
+.btn-primary2:hover{
+    cursor: pointer;
+    background-color:#2f5888; 
+    transform: scale(1.1,1.1);
+    transform: rotate(360deg);
+    transition: 0.4s ease-in-out;
+
+}
+.social{
+    text-align: center;
+    
+}
+.social:hover{
+    cursor: pointer;
+    text-align: center;
+     transform: scale(2.1,2.1);
+    transition: 0.4s ease-in-out;
+    
+}
+.tithi{
+	text-align:center;
+	background:#2f5888;
+}
+
+
+
+
